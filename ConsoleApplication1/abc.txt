@@ -6,3 +6,7 @@ Robert dodaje
 
 Zmiana do rapportu x
 raport x - zmiana 2
+
+
+
+Po z³¹czeniu brancha raport_x do mastera
